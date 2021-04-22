@@ -1,0 +1,11 @@
+name = "abm"
+uuid = "2e10b6d0-4f35-43c0-87d6-1923e0cd8b39"
+authors = ["Congee <congeec@qq.com>"]
+version = "0.1.0"
+
+[deps]
+AbstractPlotting = "537997a7-5e4e-5d89-9595-2241ea00577e"
+Agents = "46ada45e-f475-11e8-01d0-f70cc89e6671"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+InteractiveDynamics = "ec714cd0-5f51-11eb-0b6e-452e7367ff84"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
